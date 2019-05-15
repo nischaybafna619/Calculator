@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="d7ec36a6-c096-40c0-b80b-f26e35e642df" name="Default Changelist" comment="">
-=======
     <list default="true" id="a3a317ec-124d-4419-8833-52c114974ffb" name="Default Changelist" comment="">
->>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,21 +16,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
->>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -51,23 +38,12 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-=======
->>>>>>> origin/master
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="293" />
     <option name="y" value="57" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,20 +52,6 @@
       <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-<<<<<<< HEAD
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Master1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-=======
->>>>>>> origin/master
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,26 +91,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="d7ec36a6-c096-40c0-b80b-f26e35e642df" name="Default Changelist" comment="" />
-      <created>1557901443489</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1557901443489</updated>
-    </task>
-    <task id="LOCAL-00001" summary="addition">
-      <created>1557901658538</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557901658538</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
-=======
       <changelist id="a3a317ec-124d-4419-8833-52c114974ffb" name="Default Changelist" comment="" />
       <created>1557901853907</created>
       <option name="number" value="Default" />
@@ -159,7 +101,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="704" extended-state="6" />
->>>>>>> origin/master
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -167,11 +108,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986088" />
-=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16742425" />
->>>>>>> origin/master
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -179,11 +116,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
-=======
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296501" />
->>>>>>> origin/master
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,23 +131,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-<<<<<<< HEAD
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="addition" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
->>>>>>> origin/master
         </state>
       </provider>
     </entry>
